@@ -115,7 +115,7 @@ public class Main {
                         System.out.println("Empleado actualizado correctamente.");
                     }
 
-                    //LA OPCIÓN 4 --> ELIMINA A UN EMPLEADOS
+                    //LA OPCIÓN 4 --> ELIMINA A UN EMPLEADOSS
                     case 4 -> {
                         System.out.print("ID del empleado que deseas eliminar: ");
                         int idDel = sc.nextInt();
